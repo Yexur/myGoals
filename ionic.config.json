@@ -1,6 +1,6 @@
 {
   "name": "myGoals",
-  "app_id": "",
+  "app_id": "ba6ec9fe",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
